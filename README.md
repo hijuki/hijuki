@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=HIJUKI&fontSize=70&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Bot%20Architect&descFontSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=HILLZ&fontSize=70&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Bot%20Architect&descFontSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&lines=Hi+there%2C+I'm+Hijuki+%F0%9F%91%8B;Building+High-Performance+VPN+Ecosystems+%E2%9A%A1;Crafting+Intelligent+Telegram+%26+WhatsApp+Bots+%F0%9F%A4%96;Linux+SysAdmin+%26+Cloud+Infrastructure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&lines=Hi+there%2C+I'm+HILLZ+%F0%9F%91%8B;Building+High-Performance+VPN+Ecosystems+%E2%9A%A1;Crafting+Intelligent+Telegram+%26+WhatsApp+Bots+%F0%9F%A4%96;Linux+SysAdmin+%26+Cloud+Infrastructure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ```yaml
 identity:
-  name: Hijuki
+  name: HILLZ
   role: Fullstack Developer & Network Engineer
   location: Indonesia 🇮🇩 (WIB / UTC+7)
   passion: High-Performance Networking, Tunneling & Automation Bots
