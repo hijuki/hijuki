@@ -1,83 +1,124 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=HILLZ&fontSize=70&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Bot%20Architect&descFontSize=20&descAlignY=62&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&lines=Hi+there%2C+I'm+HILLZ+%F0%9F%91%8B;Building+High-Performance+VPN+Ecosystems+%E2%9A%A1;Crafting+Intelligent+Telegram+%26+WhatsApp+Bots+%F0%9F%A4%96;Linux+SysAdmin+%26+Cloud+Infrastructure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</p>
+  <!-- TOP ANIMATED GLOW BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,21,27,33&height=260&section=header&text=⚡%20SHIRO%20HLZ%20⚡&fontSize=62&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Bot%20Systems&descFontSize=20&descAlignY=58&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 
-<p align="center">
+  <!-- DYNAMIC TYPING SVG ANIMATION -->
   <a href="https://t.me/Hillz126">
-    <img src="https://img.shields.io/badge/Telegram-@Hillz126-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hello+World%2C+I'm+SHIRO+HLZ!;🚀+Architecting+Next-Gen+VPN+Ecosystems;🤖+Building+High-Speed+Telegram+%26+WhatsApp+Bots;🛡️+Linux+Kernel+%26+Network+Infrastructure+Specialist;✨+Turning+Complex+Logic+into+Smooth+Experience" alt="Typing Animation" />
   </a>
-  <a href="https://github.com/hijuki">
-    <img src="https://img.shields.io/badge/GitHub-hijuki-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <br/><br/>
+
+  <!-- GLOW SOCIAL BADGES -->
+  <a href="https://t.me/Hillz126" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Hillz126-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Network%20Security%20%26%20Bots-00B4D8?style=for-the-badge&logo=wireguard&logoColor=white" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=hijuki&label=Profile%20Views&color=0077B6&style=for-the-badge" alt="Profile Views" />
-</p>
+  &nbsp;
+  <a href="https://github.com/hijuki" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hijuki-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timezone-WIB%20(UTC%2B7)-00b4d8?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0d1117" alt="Timezone" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=hijuki&label=Profile%20Views&color=7928CA&style=for-the-badge&labelColor=0d1117" alt="Views" />
+
+</div>
+
+<br/>
 
 ---
 
-### 💫 About Me
+### 💻 System Info & Developer Identity
+
+```zsh
+shiro-hlz@cloud-core:~$ neofetch --profile
+```
 
 ```yaml
-identity:
-  name: HILLZ
-  role: Fullstack Developer & Network Engineer
-  location: Indonesia 🇮🇩 (WIB / UTC+7)
-  passion: High-Performance Networking, Tunneling & Automation Bots
-
-expertise:
-  protocols: [SSH, VLESS, VMESS, Trojan, WireGuard, Shadowsocks]
-  languages: [JavaScript / TypeScript, Python, Bash / Shell, Go]
-  infrastructure: [Linux / Ubuntu / Debian, Nginx, Docker, Cloudflare]
-  specialty: [VPN Core Engineering, Realtime Bot Engines, Reverse Proxies]
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ 👤 User       : SHIRO HLZ (@Hillz126)                                       │
+│ 🌍 Location   : Indonesia 🇮🇩 (Asia/Jakarta • UTC+07:00)                    │
+│ 💼 Focus      : High-Throughput VPN Core • Bot Sentinels • Reverse Proxies  │
+│ ⚡ Core Stack  : TypeScript • Node.js • Python • Linux OS • Docker • Nginx  │
+│ 📡 Protocols  : OpenSSH • Xray (VLESS/VMESS/Trojan) • WireGuard • BadVPN    │
+│ 🛡️ Sentinels  : 2-Strike Multi-IP Limiter • Auto-Heal • Realtime Telemetry   │
+│ 🎯 Status     : 🟢 Building & Optimizing High-Performance Infrastructure    │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🚀 Tech Stack & Toolbelt
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,bash,linux,ubuntu,debian,docker,nginx,cloudflare,git,github,vscode,postgres,sqlite&perline=8" alt="Tech Stack" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash,linux,ubuntu,debian,docker,nginx,cloudflare,git,github,vscode,postgres,sqlite,postman,c,cpp,regex&perline=10" alt="Skill Icons" />
+</div>
 
----
+<br/>
 
-### 📊 GitHub Activity & Real-Time Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hijuki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hijuki&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & Bot Engines** | `Node.js` `TypeScript` `Python 3.12` `Fastify` `Baileys MD` `Telebot / Pyrogram` |
+| **Tunneling & Networking**| `Xray Core` `VLESS / VMESS / Trojan` `WireGuard` `BadVPN UDP` `Dropbear` `SSH WS` |
+| **Infra & Security**      | `Linux SysAdmin` `Ubuntu 24.04/26.04` `iptables` `Nginx Reverse Proxy` `Cloudflare Zero Trust` |
+| **Database & Cache**      | `SQLite3` `PostgreSQL` `Redis` `LowDB` `JSON Storage` |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hijuki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" alt="Trophies" />
-</p>
+</div>
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 📊 Real-Time GitHub Analytics & Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hijuki/hijuki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <!-- TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hijuki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- STATS & STREAK -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hijuki&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=12&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&icon_color=00F2FE" width="49%" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hijuki&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=12&background=0d1117&ring=00F2FE&fire=FF007A&currStreakNum=00F2FE&sideNums=c9d1d9&sideLabels=8b949e" width="49%" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- TOP LANGUAGES & ACTIVITY GRAPH -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijuki&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=12&langs_count=8&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9" width="49%" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hijuki&theme=tokyo-night&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&color=00F2FE&line=00F2FE&point=FF007A&area=true&hide_title=false" width="49%" alt="Activity Graph" />
+</div>
 
 ---
 
-### 🌐 Featured Repositories
+### 🐍 Dynamic Contribution Grid Snake
 
-| Repository | Description | Tech |
-| :--- | :--- | :--- |
-| [⚡ **SHIROVPN**](https://github.com/hijuki/SHIROVPN) | Ultimate Multi-Protocol VPN Core & Telegram Store Bot Ecosystem | `Python` `Xray` `WireGuard` `Bash` |
-| [🤖 **shirowahd**](https://github.com/hijuki/shirowahd) | WhatsApp Multi-Device Automation Bot & Zero-Dep Web Cloud Uploader | `Node.js` `Baileys` `Cloudflare` |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hijuki/hijuki/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" alt="Footer Banner" />
-</p>
+### 🌟 Star Projects & Flagships
+
+<div align="center">
+
+| Flagship Ecosystem | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [⚡ **SHIROVPN**](https://github.com/hijuki/SHIROVPN) | Ultimate Multi-Protocol VPN Core & Telegram Bot Store Ecosystem (SSH WS, Xray, WireGuard, 2-Strike Sentinel) | `Python` `Xray` `WireGuard` `iptables` `Bash` | `🟢 PRODUCTION` |
+| [🤖 **shirowahd**](https://github.com/hijuki/shirowahd) | WhatsApp Multi-Device Automation Bot & Zero-Dependency Native Cloud Uploader | `Node.js` `Baileys` `Cloudflare Tunnel` | `🟢 PRODUCTION` |
+
+</div>
+
+---
+
+<div align="center">
+  <!-- BOTTOM ANIMATED FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,21,27,33&height=120&section=footer" width="100%" alt="Footer" />
+</div>
