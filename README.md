@@ -1,117 +1,72 @@
 <div align="center">
 
-  <!-- TOP ANIMATED GLOW BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,21,27,33&height=270&section=header&text=⚡%20SHIRO%20HLZ%20⚡&fontSize=65&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Bot%20Systems&descFontSize=20&descAlignY=58&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=200&section=header&text=SHIRO%20HLZ&fontSize=56&fontAlignY=40&desc=Network%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Bot%20Architect&descFontSize=17&descAlignY=64&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 
-  <!-- DYNAMIC TYPING SVG ANIMATION -->
+  <br/>
+
   <a href="https://t.me/Hillz126">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hello+World%2C+I'm+SHIRO+HLZ!;🚀+Architecting+High-Performance+VPN+Cores;🤖+Building+Intelligent+Telegram+%26+WhatsApp+Bots;🛡️+Linux+Kernel+%26+Cloud+Infrastructure+Specialist;✨+Turning+Complex+Logic+into+Smooth+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=600&lines=Building+high-performance+VPN+systems;Crafting+intelligent+automation+bots;Linux+infrastructure+%26+network+security" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- SOCIAL & STATUS BADGES -->
   <a href="https://t.me/Hillz126" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Hillz126-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Hillz126-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://github.com/hijuki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hijuki-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-hijuki-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-WIB%20(UTC%2B7)-00b4d8?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0d1117" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-00b4d8?style=flat-square" alt="Location" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=hijuki&label=Profile%20Views&color=7928CA&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hijuki&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Views" />
 
 </div>
 
 <br/>
 
----
+### ⚡ About
 
-### 💻 System Information & Developer Identity
+Passionate about network protocols, low-latency tunneling architectures, and autonomous bot ecosystems. Focused on clean code, automated sentinels, and zero-downtime Linux infrastructure.
 
-```zsh
-shiro-hlz@cloud-core:~$ neofetch --profile
-```
+- 🔭 **Specialization:** VPN Protocols (SSH WS, Xray Core, WireGuard), Kernel Limiter Sentinels
+- 🤖 **Automation:** WhatsApp (Baileys) & Telegram Bot Engines
+- 📍 **Timezone:** Asia/Jakarta (`WIB` • `UTC+07:00`)
 
-```yaml
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ 👤 User       : SHIRO HLZ (@Hillz126)                                       │
-│ 🌍 Location   : Indonesia 🇮🇩 (Asia/Jakarta • UTC+07:00)                    │
-│ 💼 Focus      : High-Throughput VPN Core • Bot Sentinels • Reverse Proxies  │
-│ ⚡ Core Stack  : TypeScript • Node.js • Python • Linux OS • Docker • Nginx  │
-│ 📡 Protocols  : OpenSSH • Xray (VLESS/VMESS/Trojan) • WireGuard • BadVPN    │
-│ 🛡️ Sentinels  : 2-Strike Multi-IP Limiter • Auto-Heal • Realtime Telemetry   │
-│ 🎯 Status     : 🟢 Building & Optimizing High-Performance Infrastructure    │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
+<br/>
 
----
-
-### 🚀 Tech Stack & Toolbelt
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash,linux,ubuntu,debian,docker,nginx,cloudflare,git,github,vscode,postgres,sqlite,postman,c,cpp,regex&perline=10" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash,linux,ubuntu,docker,nginx,cloudflare,sqlite,postgres,git,github,vscode&perline=15" alt="Tech Stack" />
+</div>
+
+<br/>
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hijuki&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sideNums=e6edf3&sideLabels=7d8590" width="48%" alt="Streak" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hijuki&theme=tokyonight" width="48%" alt="Summary" />
 </div>
 
 <br/>
 
 <div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Backend & Bot Engines** | `Node.js` `TypeScript` `Python 3.12` `Fastify` `Baileys MD` `Telebot / Pyrogram` |
-| **Tunneling & Networking**| `Xray Core` `VLESS / VMESS / Trojan` `WireGuard` `BadVPN UDP` `Dropbear` `SSH WS` |
-| **Infra & Security**      | `Linux SysAdmin` `Ubuntu 24.04/26.04` `iptables` `Nginx Reverse Proxy` `Cloudflare Zero Trust` |
-| **Database & Cache**      | `SQLite3` `PostgreSQL` `Redis` `LowDB` `JSON Storage` |
-
-</div>
-
----
-
-### 📊 Real-Time GitHub Analytics & Profile Summary
-
-<div align="center">
-  <!-- PROFILE SUMMARY STATS CARDS (100% OPERATIONAL & VERIFIED) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hijuki&theme=tokyonight" width="49%" alt="Profile Details" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=hijuki&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=12&background=0d1117&ring=00F2FE&fire=FF007A&currStreakNum=00F2FE&sideNums=c9d1d9&sideLabels=8b949e" width="49%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/hijuki/hijuki/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake Contribution Animation" />
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- LANGUAGE DISTRIBUTION & COMMIT METRICS -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hijuki&theme=tokyonight" width="49%" alt="Repos Per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hijuki&theme=tokyonight" width="49%" alt="Most Commit Language" />
-</div>
+### 🚀 Projects
 
----
+- ⚡ [**SHIROVPN**](https://github.com/hijuki/SHIROVPN) — High-throughput multi-protocol VPN core & Telegram store bot with automated 2-strike limiter.
+- 🤖 [**shirowahd**](https://github.com/hijuki/shirowahd) — WhatsApp multi-device bot & zero-dependency native web cloud uploader with Cloudflare Tunnel.
 
-### 🐍 Dynamic Contribution Grid Snake (Live Real-Time)
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hijuki/hijuki/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Animation" />
-</div>
-
----
-
-### 🌟 Featured Flagship Ecosystems
-
-<div align="center">
-
-| Flagship Ecosystem | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [⚡ **SHIROVPN**](https://github.com/hijuki/SHIROVPN) | Ultimate Multi-Protocol VPN Core & Telegram Bot Store Ecosystem (SSH WS, Xray, WireGuard, 2-Strike Sentinel) | `Python` `Xray` `WireGuard` `iptables` `Bash` | `🟢 PRODUCTION` |
-| [🤖 **shirowahd**](https://github.com/hijuki/shirowahd) | WhatsApp Multi-Device Automation Bot & Zero-Dependency Native Cloud Uploader | `Node.js` `Baileys` `Cloudflare Tunnel` | `🟢 PRODUCTION` |
-
-</div>
-
----
-
-<div align="center">
-  <!-- BOTTOM ANIMATED FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,21,27,33&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" alt="Footer" />
 </div>
